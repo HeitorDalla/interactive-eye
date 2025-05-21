@@ -25,8 +25,8 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - Abra o arquivo index.html em seu navegador.
 - Mova o cursor do mouse pela tela e observe as pupilas acompanharem o movimento.
 
-## 🖼️ Visual do Projeto
-Os olhos ficarão centralizados na tela e as pupilas se moverão levemente em direção ao cursor, mantendo-se dentro de um limite circular de deslocamento.
+## Visualização do Projeto
+(https://heitordalla.github.io/interactive-eye/)
 
 ## 📌 Possíveis Melhorias
 - Tornar os olhos responsivos a toques (touch) em dispositivos móveis.
